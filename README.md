@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnforgit
 - 📫 How to reach me my mail id is johnpg2616@gmail.com
-
+Currently learning and creating stuff in Web3
 
 <!---
 johnforgit/johnforgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
