@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @johnforgit
-- 📫 How to reach me my mail id is johnpg2616@gmail.com  
+- 👋 Hi, I’m John Philip George
+- 📫 You can reach me at johnpg2616@gmail.com  
 - Currently learning and creating stuff in Web3
 
 <!---
