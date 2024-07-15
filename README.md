@@ -1,8 +1,6 @@
-- 👋 Hi, I’m John Philip George
-- 📫 You can reach me at johnpg2616@gmail.com  
-- Currently learning and creating stuff in Web3
+# - 👋 Hi, I’m John Philip George
 
-<!---
-johnforgit/johnforgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages and Tools
+
+### github stats
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnforgit&show_icons=true&theme=tokyonight)
