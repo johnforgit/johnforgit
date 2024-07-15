@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m John Philip George
+# 👋 Hi, I’m John Philip George
 
 ### Languages and Tools
 
